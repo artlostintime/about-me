@@ -1,4 +1,4 @@
-<center># 💫 About Me: </center>
+<p style="text-align: center;"># 💫 About Me: </p>
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
 
 
