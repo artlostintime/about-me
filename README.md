@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a VCS(like git) build on rust. <br>👯 I’m looking to collaborate on some cool open-source projects.<br>🤝 I’m looking for help with my silly quaries.  <br>🌱 I’m currently learning Rustlang.<br>💬 Ask me about anything bocz I love to learn alot, Lets share our knowledge.<br>⚡ Fun fact I code in a toster.
 
 
 ## 🌐 Socials:
